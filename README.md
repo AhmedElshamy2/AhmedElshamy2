@@ -60,12 +60,14 @@
 
 
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
-   <a href="https://github.com/AhmedElshamy2">
-    <img width="280" align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElshamy2&theme=nord_bright">
-  </a>
-  <a href="https://github.com/AhmedElshamy2">
-    <img width="280" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslamabdelbasset1&theme=nord_bright&langs_count=16"/>
-  </a>
+    <p align="center">
+     <a href="https://github.com/AhmedElshamy2">
+      <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElshamy2&theme=nord_bright">
+    </a>
+    <a href="https://github.com/AhmedElshamy2">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshamy2&theme=nord_bright&langs_count=16"/>
+    </a>
+  </p>
 
 
 
