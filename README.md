@@ -62,7 +62,7 @@
   <summary> <b><u>Most Used Languages</u></b> </summary><br>
     <p align="center">
      <a href="https://github.com/AhmedElshamy2">
-      <img align="centre left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElshamy2&theme=nord_bright">
+      <img align="centre" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AhmedElshamy2&theme=nord_bright">
     </a>
     <a href="https://github.com/AhmedElshamy2">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedElshamy2&theme=nord_bright&langs_count=16"/>
